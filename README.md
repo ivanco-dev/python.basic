@@ -1,2 +1,2 @@
 # python.basic
-mine.python.basic@cursor.edu
+# mine.python.basic.cursor.edu
